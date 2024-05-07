@@ -27,12 +27,12 @@ module.exports = {
         const embed = new MessageEmbed()
             .setColor(client.embedColor)
             .setAuthor({name: `| Filters menu`, iconURL: message.member.displayAvatarURL({dynamic:true})})
-            .setFooter({text:`Made With 💖 By Arezo HQ`, iconURL: client.user.displayAvatarURL({dynamic:true})})
+            .setFooter({text:`Made With 💖 By Deep`, iconURL: client.user.displayAvatarURL({dynamic:true})})
 
       .setThumbnail(`${message.author.displayAvatarURL()}`)
             .setDescription(`**__This is my filters list u can enable filters by using dropdown menu\nFilters Take Some Time To Load__**\n<:online:1210253399031812147>Reset Filters
-<:online:1210253399031812147> Bass Booster
-<:online:1210253399031812147> 8D
+<:online: 1210253399031812147> Bass Booster
+<:online: 1210253399031812147> 8D
 <:online:1210253399031812147> Nightcore
 <:online:1210253399031812147> Pitch
 <:online:1210253399031812147> Distort
