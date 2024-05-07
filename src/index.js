@@ -40,7 +40,7 @@ client.on("interactionCreate", async (interaction) => {
     const embed1 = new MessageEmbed()
       .setColor(client.embedColor)
       .setThumbnail(client.user.displayAvatarURL())
-      .setDescription("`help, invite, ping, node, stats, uptime,`")
+      .setDescription("`help, invite, ping, stats, node, stats, uptime,`")
       .setAuthor("Information Commands")
       .setColor(client.embedColor)
       .setFooter("Feel the Quality of king Music");
