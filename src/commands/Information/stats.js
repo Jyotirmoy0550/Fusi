@@ -14,7 +14,7 @@ class Stats extends Command {
 		this.aliases      = ['stats'];
 		this.group        = 'Info';
 		this.description  = 'Get bot stats.';
-		this.usage        = 'stats';
+		this.usage        = 'status';
 		this.hideFromHelp = true;
 		this.cooldown     = 5000;
 		this.expectedArgs = 0;
