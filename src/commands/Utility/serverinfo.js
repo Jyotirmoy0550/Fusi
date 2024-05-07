@@ -160,7 +160,7 @@ module.exports = {
 
           ])
 
-                                       .setFooter("𝑲𝒊𝒏𝒈 💖")
+                                       .setFooter("Deep 💖")
 
           .setTimestamp()
 
