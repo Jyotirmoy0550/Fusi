@@ -41,18 +41,18 @@ module.exports = {
       )
 
       .setDescription(
-        `<:online:1210253399031812147> Prefix for this server is: ${prefix}\n<:online:1210253399031812147> Total Commands: ${client.commands.size}\n<:online:1210253399031812147>**A Rich Quality Music Bot
+        `<:online:1210253399031812147> Prefix for this server is: ${prefix}\n<:online:1210253399031812147> Total Commands: ${client.commands.size}\n<:online:1210253399031812147>** A Rich Quality Music Bot
 Prefix For this server : - **
   
   <:online:1210253399031812147> [Invite ${client.user.username}](https://discord.gg/k7euMVR4q6)
   
   <:online:1210253399031812147> [Vote ${client.user.username}](https://discord.gg/k7euMVR4q6)
-\n**Command Categories**\n<:online:1210253399031812147> : **Info**\n<:online:1210253399031812147> : **Music**\n<:online:1210253399031812147> : **Filters**\n<:online:1210253399031812147> : **Settings**\n<:online:1210253399031812147> :  **Utility**\n<:online:1210253399031812147> : **All Commands**`,
+\n**Command Categories**\n<:online:1210253399031812147> :  **Info**\n<:online:1210253399031812147> : v**Music**\n<:online:1210253399031812147> :  **Filters**\n<:online:1210253399031812147> :  **Settings**\n<:online:1210253399031812147> :   **Utility**\n<:online:1210253399031812147> : **All Commands**`,
       )
 
       //  .setFooter(ee.footertext, ee.footericon)
       .setFooter({
-        text: `Made With 💖 By king`,
+        text: `Made With 💖 By Deep`,
         iconURL: message.guild.iconURL({ dynamic: true }),
       })
       .setThumbnail(client.user.displayAvatarURL({ dynamic: true }))
